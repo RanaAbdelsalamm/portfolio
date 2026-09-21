@@ -13,7 +13,7 @@ Welcome to my portfolio! Explore my work in cloud architecture, system administr
 
 ## 🚀 Featured Projects
 * **Sokar**: An AI-powered diabetes tracking and nutrition assistant (Awarded Best Graduation Project).
-* **AWS High-Availability Architecture**: Fault-tolerant infrastructure built with CloudFormation, ALB, and Auto Scaling.
+* **AWS High-Availability Architecture**: Fault-tolerant infrastructure built with Iac, ALB, and Auto Scaling.
 * **Enterprise Windows Server Management**: Multi-server Active Directory domain, DNS, DHCP, and IIS NLB.
 
 ## 👩🏻‍💻 Connect with Me
