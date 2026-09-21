@@ -16,7 +16,7 @@ Welcome to my portfolio! Explore my work in cloud architecture, system administr
 * **AWS High-Availability Architecture**: Fault-tolerant infrastructure built with CloudFormation, ALB, and Auto Scaling.
 * **Enterprise Windows Server Management**: Multi-server Active Directory domain, DNS, DHCP, and IIS NLB.
 
-## 📞 Connect with Me
+## 👩🏻‍💻 Connect with Me
 * **LinkedIn:** [rana-abdelsalam](https://www.linkedin.com/in/rana-abdelsalam-23853725b/)
 * **Email:** ranabdelsalamm@gmail.com
 * **TryHackMe:** [jmra](https://tryhackme.com/p/jmra)
